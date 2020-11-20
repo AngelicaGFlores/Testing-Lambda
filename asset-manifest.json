@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Testing-Lambda/static/css/main.edea9223.chunk.css",
+    "main.js": "/Testing-Lambda/static/js/main.b4e35879.chunk.js",
+    "main.js.map": "/Testing-Lambda/static/js/main.b4e35879.chunk.js.map",
+    "runtime-main.js": "/Testing-Lambda/static/js/runtime-main.4c86eb4a.js",
+    "runtime-main.js.map": "/Testing-Lambda/static/js/runtime-main.4c86eb4a.js.map",
+    "static/js/2.b201f85e.chunk.js": "/Testing-Lambda/static/js/2.b201f85e.chunk.js",
+    "static/js/2.b201f85e.chunk.js.map": "/Testing-Lambda/static/js/2.b201f85e.chunk.js.map",
+    "index.html": "/Testing-Lambda/index.html",
+    "static/css/main.edea9223.chunk.css.map": "/Testing-Lambda/static/css/main.edea9223.chunk.css.map",
+    "static/js/2.b201f85e.chunk.js.LICENSE.txt": "/Testing-Lambda/static/js/2.b201f85e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c86eb4a.js",
+    "static/js/2.b201f85e.chunk.js",
+    "static/css/main.edea9223.chunk.css",
+    "static/js/main.b4e35879.chunk.js"
+  ]
+}

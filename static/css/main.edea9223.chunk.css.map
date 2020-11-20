@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,KACE,iBAAkB,CAClB,UACF,CAEA,GACE,SACF,CAEA,aAEE,WACF","file":"main.edea9223.chunk.css","sourcesContent":["body {\r\n  text-align: center;\r\n  margin: 20%;\r\n}\r\n\r\nh1 {\r\n  margin: 5%;\r\n}\r\n\r\nlabel,\r\nbutton {\r\n  margin: 2.5%;\r\n}\r\n"]}
